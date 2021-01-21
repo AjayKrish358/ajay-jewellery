@@ -1,0 +1,14 @@
+.card-body {
+    min-height: 20%;
+    min-width: 20%;
+    margin-right: 5px;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.nav-item:hover {
+    background-color: rgba(233, 228, 227, 0.712);
+}
